@@ -136,26 +136,28 @@ i) Using Averaging Filter
 
 </br>
 
-<img src="https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/090c7b19-d2a6-42c1-9629-3b4dfa427319" height=300 width=800>
+![image](https://github.com/RagulRM/Implementation-of-filter/assets/121609342/ad9bc912-c129-4779-b2b8-9dbaaeaeb28f)
+
 
 </br>
 
 
 ii) Using Weighted Averaging Filter
 </br>
-<img src="https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/183abc6b-12e7-4d58-91d3-692d45a7a4ed" height=300 width=450>
+![image](https://github.com/RagulRM/Implementation-of-filter/assets/121609342/0fa9ffe8-a492-497b-bacb-719bfb2cd3a2)
+
 
 </br>
 
 iii) Using Gaussian Filter
 </br>
-<img src="https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/489630b6-6844-44b6-9681-385f499e6c28" height=300 width=450>
+![image](https://github.com/RagulRM/Implementation-of-filter/assets/121609342/8ffb37ea-e1aa-49b7-89e7-a3468d5683cc)
 
 </br>
 
 iv) Using Median Filter
 </br>
-<img src="https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/24b76ee9-e42e-4960-8f1a-2da88e15c01e" height=300 width=450>
+![image](https://github.com/RagulRM/Implementation-of-filter/assets/121609342/5df08074-c523-442d-98f4-3f01d102c03b)
 
 </br>
 
@@ -164,13 +166,13 @@ iv) Using Median Filter
 
 i) Using Laplacian Kernal
 </br>
-<img src="https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/900d8186-3ca1-4087-93fe-e00a458865dd" height=300 width=450>
+![image](https://github.com/RagulRM/Implementation-of-filter/assets/121609342/35f58e2c-512a-4707-abb2-dc66a545e238)
 
 </br>
 
 ii) Using Laplacian Operator
 </br>
-<img src="https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/cc78d5ab-c514-43f0-823e-a483fa905f5b" height=300 width=450>
+![image](https://github.com/RagulRM/Implementation-of-filter/assets/121609342/fd552d2c-1f75-4903-b767-f4cd560386f7)
 
 </br>
 
